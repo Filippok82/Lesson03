@@ -12,12 +12,12 @@ for (int i = 0; i < arr.Length; i++)
 {
     
     Cub = Math.Pow(arr[i],3);
-    Console.WriteLine(Cub);
+    /* Console.WriteLine(Cub); */
 
     a = Cub%10;
      /* Console.WriteLine(a); */
      if(a%2==0)
      {
-         Console.WriteLine( "Заканчивается четным число : " + a);
+         Console.WriteLine( Cub);
      }
 }
