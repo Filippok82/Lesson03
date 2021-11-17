@@ -2,25 +2,21 @@
 
 int[] array = new int[123];
 Random random = new Random();
-int k = 0;
 
 for (int i = 0; i < array.Length; i++)
 {
-    array[i] = random.Next(0, 100);
+    array[i] = random.Next(0, 200);
     Console.WriteLine(array[i] + " ");
 
 }
 for (int i = 0; i < array.Length; i++)
 {
-    if (array[i] > 10 && array[i] < 99)
-    {
-        k++;
+     if (array[i] < 99)
+     {
+        if (array[i] > 10)
+         {
+            Console.WriteLine( array[i] + " из отрезка [10,99]"); 
+        }
     }
-
-
 }
-Console.WriteLine("Количество чисел  " + k);
-
-
-
 
