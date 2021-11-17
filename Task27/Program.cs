@@ -1,17 +1,13 @@
 ﻿//27. Определить количество цифр в числе
 
-int CountDigit(long n)
+Console.WriteLine("Веедите целое число");
 
+int num = Convert.ToInt32(Console.ReadLine());
+int b = 0;
+
+while ( num != 0)
 {
-    
-    int k=0;
-    while(n!=0)
-    {
-        k++;
-        n=n/10;
-    }
-    return k;
+     num = num /10;
+     b ++;
 }
-int a = Convert.ToInt32(Console.ReadLine());
-int digits = CountDigit(a);
-
+Console.WriteLine("количество цифр в числе:" + b);
