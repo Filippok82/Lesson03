@@ -1,0 +1,16 @@
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task66\obj\Debug\net6.0\Task66.GlobalUsings.g.cs
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task66\obj\Debug\net6.0\Task66.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task66\obj\Debug\net6.0\Task66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task66\obj\Debug\net6.0\Task66.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task66\obj\Debug\net6.0\Task66.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task66\obj\Debug\net6.0\Task66.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task66\bin\Debug\net6.0\Task66.exe
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task66\bin\Debug\net6.0\Task66.deps.json
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task66\bin\Debug\net6.0\Task66.runtimeconfig.json
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task66\bin\Debug\net6.0\Task66.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task66\bin\Debug\net6.0\ref\Task66.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task66\bin\Debug\net6.0\Task66.pdb
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task66\obj\Debug\net6.0\Task66.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task66\obj\Debug\net6.0\ref\Task66.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task66\obj\Debug\net6.0\Task66.pdb
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task66\obj\Debug\net6.0\Task66.genruntimeconfig.cache

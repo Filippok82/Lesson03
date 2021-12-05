@@ -1,0 +1,16 @@
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task67\bin\Debug\net6.0\Task67.exe
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task67\bin\Debug\net6.0\Task67.deps.json
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task67\bin\Debug\net6.0\Task67.runtimeconfig.json
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task67\bin\Debug\net6.0\Task67.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task67\bin\Debug\net6.0\ref\Task67.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task67\bin\Debug\net6.0\Task67.pdb
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task67\obj\Debug\net6.0\Task67.GlobalUsings.g.cs
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task67\obj\Debug\net6.0\Task67.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task67\obj\Debug\net6.0\Task67.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task67\obj\Debug\net6.0\Task67.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task67\obj\Debug\net6.0\Task67.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task67\obj\Debug\net6.0\Task67.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task67\obj\Debug\net6.0\Task67.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task67\obj\Debug\net6.0\ref\Task67.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task67\obj\Debug\net6.0\Task67.pdb
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task67\obj\Debug\net6.0\Task67.genruntimeconfig.cache
