@@ -1,13 +1,9 @@
 ﻿// 67. Показать натуральные числа от N до 1, N задано
-void Num(int a)
+string Num (int M, int N)
 {
-    int N = 16;
-    if (a < N && a != 0)
-    {
-        Console.Write($"{a}" + " ");
-        Num(a - 1);
 
-    }
-
+    if (M <= N) return  Num (M + 1, N) + $"{M}" + " " ;
+    else return String.Empty;
+   
 }
-Num(15);
+Console.Write(Num(1, 5));

@@ -1,13 +1,12 @@
 ﻿// 68. Показать натуральные числа от M до N, N и M заданы
 
-void Num (int a)
+string Num (int M, int N)
 {
-    int M =25;
-    int N =52;
-    if(a>=M && a<=N)
-    {
-        Console.Write($"{a}"+ " ");
-        Num (a+1);
-    }
+
+    if (M <= N) return $"{M}" + " " + Num (M + 1, N);
+    else return String.Empty;
+   
+
+
 }
-Num(25);
+Console.Write(Num(1, 5));
