@@ -1,0 +1,16 @@
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task69\obj\Debug\net6.0\Task69.GlobalUsings.g.cs
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task69\obj\Debug\net6.0\Task69.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task69\obj\Debug\net6.0\Task69.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task69\obj\Debug\net6.0\Task69.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task69\obj\Debug\net6.0\Task69.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task69\obj\Debug\net6.0\Task69.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task69\bin\Debug\net6.0\Task69.exe
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task69\bin\Debug\net6.0\Task69.deps.json
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task69\bin\Debug\net6.0\Task69.runtimeconfig.json
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task69\bin\Debug\net6.0\Task69.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task69\bin\Debug\net6.0\ref\Task69.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task69\bin\Debug\net6.0\Task69.pdb
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task69\obj\Debug\net6.0\Task69.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task69\obj\Debug\net6.0\ref\Task69.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task69\obj\Debug\net6.0\Task69.pdb
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson03\Task69\obj\Debug\net6.0\Task69.genruntimeconfig.cache
