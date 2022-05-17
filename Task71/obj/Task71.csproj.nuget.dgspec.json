@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ирина\\Desktop\\УЧЕБА\\Разработчик\\C#\\Lesson03\\Task71\\Task71.csproj": {}
+    "C:\\Users\\Ирина\\Desktop\\TRAINING\\PROGRAMMER\\C#\\Lesson03\\Task71\\Task71.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ирина\\Desktop\\УЧЕБА\\Разработчик\\C#\\Lesson03\\Task71\\Task71.csproj": {
+    "C:\\Users\\Ирина\\Desktop\\TRAINING\\PROGRAMMER\\C#\\Lesson03\\Task71\\Task71.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ирина\\Desktop\\УЧЕБА\\Разработчик\\C#\\Lesson03\\Task71\\Task71.csproj",
+        "projectUniqueName": "C:\\Users\\Ирина\\Desktop\\TRAINING\\PROGRAMMER\\C#\\Lesson03\\Task71\\Task71.csproj",
         "projectName": "Task71",
-        "projectPath": "C:\\Users\\Ирина\\Desktop\\УЧЕБА\\Разработчик\\C#\\Lesson03\\Task71\\Task71.csproj",
+        "projectPath": "C:\\Users\\Ирина\\Desktop\\TRAINING\\PROGRAMMER\\C#\\Lesson03\\Task71\\Task71.csproj",
         "packagesPath": "C:\\Users\\Ирина\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ирина\\Desktop\\УЧЕБА\\Разработчик\\C#\\Lesson03\\Task71\\obj\\",
+        "outputPath": "C:\\Users\\Ирина\\Desktop\\TRAINING\\PROGRAMMER\\C#\\Lesson03\\Task71\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ирина\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ирина\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
